@@ -1,5 +1,5 @@
 .cover__title {
-    width: 40%;
+    width: 480px;
     line-height: 76px;
     font-size: 72px;
     color: #fff;
@@ -11,9 +11,10 @@
     z-index: 2;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 520px) {
     .cover__title {
-        width: 80%;
+        top: 25%;
+        width: 50%;
         font-size: 32px;
         line-height: 35px;
     }

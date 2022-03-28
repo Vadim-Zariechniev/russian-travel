@@ -1,4 +1,4 @@
-.header__content_lang-link {
+.header__lang-link {
     font-size: 24px;
     line-height: 28px;
     text-decoration: none;
@@ -6,7 +6,7 @@
     margin-left: 18px;
 }
 
-.header__content_lang-link:hover {
+.header__lang-link:hover {
     text-decoration-line: underline;
     
 }
