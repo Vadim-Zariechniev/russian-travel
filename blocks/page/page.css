@@ -2,8 +2,9 @@
 .page {
 
     @font-face {
-      font-family: 'Inter-VariableFont';
-      src: local('fonts/Inter-VariableFont.ttf');
+      font-family: 'Inter-Black';
+      src: local('fonts/Inter-Black.woff');
+      src: local('fonts/Inter-Black.woff2');
     }
   
   
@@ -13,7 +14,7 @@
 
     margin: 0 auto;
 
-    font-family: 'Inter-VariableFont', sans-serif;
+    font-family: 'Inter-Black', sans-serif;
 
     background: #181A19;
 
