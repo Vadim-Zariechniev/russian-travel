@@ -4,6 +4,7 @@
     text-decoration: none;
     color: #FFF;
     margin-left: 18px;
+    font-style: normal;
 }
 
 .header__lang-link:hover {

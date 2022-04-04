@@ -1,12 +1,5 @@
 
 .page {
-
-    @font-face {
-      font-family: 'Inter-Black';
-      src: local('fonts/Inter-Black.woff');
-      src: local('fonts/Inter-Black.woff2');
-    }
-  
   
     min-width: 320px;
 
@@ -14,11 +7,11 @@
 
     margin: 0 auto;
 
-    font-family: 'Inter-Black', sans-serif;
-
     background: #181A19;
 
+    overflow-x: hidden; /* - убирает полосу прокрутки при изменении ширины окна */
 
+    font-family: 'Inter', sans-serif;
 
 }
 

@@ -3,12 +3,9 @@
     line-height: 22px;
     width: 40%;
     color: #fff;
-    position: absolute;
     text-align: center;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 2;
+    margin: 0 auto;
+    
 }
 
  /* подогнать титулы еще */

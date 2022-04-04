@@ -3,18 +3,15 @@
     line-height: 76px;
     font-size: 72px;
     color: #fff;
-    position: absolute;
-    top: 35%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    margin: 0 auto;
     text-align: center;
-    z-index: 2;
+    
+    
 }
 
 @media screen and (max-width: 520px) {
     .cover__title {
-        top: 25%;
-        width: 50%;
+        
         font-size: 32px;
         line-height: 35px;
     }
