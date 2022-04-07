@@ -1,7 +1,7 @@
 .footer {
     
     padding-bottom: 24px;
-    margin: 0 48px 0 48px;
+    margin: 92px 48px 0 48px;
     min-width: 320px;
     display: flex;
     flex-direction: row;
@@ -13,7 +13,7 @@
     .footer {
         display: flex;
         flex-direction: column;
-        margin: 0 24px 0;
+        margin: 92px 24px 0;
     }
 
     .footer__links {
@@ -26,6 +26,6 @@
     .footer {
         display: flex;
         flex-direction: column;
-        margin: 0 16px 0;
+        margin: 64px 16px 0;
     }
 }
