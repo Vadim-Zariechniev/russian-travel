@@ -1,6 +1,7 @@
 .place__link {
     color: #fff;
     transition: opacity 0.2s ease-in-out;
+    font-family: "Inter-Regular", sans-serif;
 }
 
 .place__link:hover {

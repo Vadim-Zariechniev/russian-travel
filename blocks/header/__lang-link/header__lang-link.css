@@ -4,7 +4,7 @@
     text-decoration: none;
     color: #FFF;
     margin-left: 18px;
-    font-style: normal;
+    font-family: 'Inter-Regular', sans-serif;
 }
 
 .header__lang-link:hover {

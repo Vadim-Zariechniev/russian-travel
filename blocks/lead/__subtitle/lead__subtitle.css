@@ -5,7 +5,7 @@
     font-size: 30px;
     line-height: 36px;
     max-width: 580px;
-    font-style: regular; 
+    font-family: 'Inter-Regular', sans-serif;
 }
 
 @media screen and (max-width: 520px){
