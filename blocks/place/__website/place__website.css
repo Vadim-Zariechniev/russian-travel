@@ -4,13 +4,10 @@
     flex-direction: column;
     justify-content: flex-end;
     margin-left: 40px;
-    
-
     font-size: 18px;
     line-height: 22px;
 
 }
-
 
 @media screen and (max-width: 520px) {
     .place__website {

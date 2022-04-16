@@ -5,10 +5,13 @@
     font-size: 30px;
     line-height: 36px;
     max-width: 580px;
-    font-family: 'Inter-Regular', sans-serif;
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
-@media screen and (max-width: 520px){
+
+@media screen and (max-width: 520px) {
     .lead__subtitle {
         font-size: 16px;
         line-height: 20px;

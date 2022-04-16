@@ -3,7 +3,10 @@
     line-height: 22px;
     max-width: 360px;
     max-height: 66px;
-    font-family: "Inter-Regular", sans-serif;
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+    font-weight: normal;
+    
 }
 
 @media screen and (max-width: 520px) {
