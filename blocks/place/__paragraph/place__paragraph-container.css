@@ -1,0 +1,10 @@
+.place__paragraph-container {
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 980px) {
+    .place__paragraph-container {
+        max-width: 392px;
+        
+    }
+}

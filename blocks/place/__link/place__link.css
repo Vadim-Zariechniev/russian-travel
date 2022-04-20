@@ -1,5 +1,7 @@
 
 .place__link {
+    font-size: 18px;
+    line-height: 22px;
     color: #fff;
     transition: opacity 0.2s ease-in-out;
     font-family: Inter, sans-serif;
@@ -8,5 +10,12 @@
 }
 
 .place__link:hover {
-    opacity: 0.5;
+    opacity: 0.4;
+}
+
+@media screen and (max-width: 663px) {
+    .place__link {
+        margin-left: 16px;
+        margin-bottom: 32px;
+    }
 }
