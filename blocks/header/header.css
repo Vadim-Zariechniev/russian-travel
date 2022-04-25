@@ -13,9 +13,17 @@
     }
 }
 
+@media screen and (max-width: 1023px) {
+    .header {
+        max-width: 100%;
+        margin: 0 24px 48px;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .header {
         padding-top: 16px;
-        margin: 0 16px 16px;
+        margin-right: 16px;
+        margin-left: 16px;
     }
 }
