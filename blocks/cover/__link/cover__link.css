@@ -3,6 +3,10 @@
     height: 100%;
     text-decoration: none;
     z-index: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
   
   .cover__link:before {
