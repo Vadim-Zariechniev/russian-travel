@@ -23,7 +23,7 @@
     .photo-grid {
         width: 720px;
         grid-template-columns: repeat(auto-fill, minmax(352px, 1fr));
-        margin: 98px auto 78px;
+        margin: 88px auto 88px;
     }
 }
 
